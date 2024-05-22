@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cinema-app/static/css/main.a8667532.css",
+    "main.css": "/cinema-app/static/css/main.de26762e.css",
     "main.js": "/cinema-app/static/js/main.e1031d9f.js",
     "reactPlayerYouTube.js": "/cinema-app/static/js/reactPlayerYouTube.99ca41bf.chunk.js",
     "reactPlayerSoundCloud.js": "/cinema-app/static/js/reactPlayerSoundCloud.5b7b4b84.chunk.js",
@@ -32,7 +32,7 @@
     "static/media/close.svg": "/cinema-app/static/media/close.498a1e2fd1a3df848f49f8a9b222ac47.svg",
     "static/media/arrow.svg": "/cinema-app/static/media/arrow.48e894f38853e68328ec974816a79386.svg",
     "static/media/getFetch.cjs": "/cinema-app/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.a8667532.css.map": "/cinema-app/static/css/main.a8667532.css.map",
+    "main.de26762e.css.map": "/cinema-app/static/css/main.de26762e.css.map",
     "main.e1031d9f.js.map": "/cinema-app/static/js/main.e1031d9f.js.map",
     "reactPlayerYouTube.99ca41bf.chunk.js.map": "/cinema-app/static/js/reactPlayerYouTube.99ca41bf.chunk.js.map",
     "reactPlayerSoundCloud.5b7b4b84.chunk.js.map": "/cinema-app/static/js/reactPlayerSoundCloud.5b7b4b84.chunk.js.map",
@@ -50,7 +50,7 @@
     "reactPlayerPreview.1b8a0c11.chunk.js.map": "/cinema-app/static/js/reactPlayerPreview.1b8a0c11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8667532.css",
+    "static/css/main.de26762e.css",
     "static/js/main.e1031d9f.js"
   ]
 }
