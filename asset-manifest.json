@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cinema-app/static/css/main.de26762e.css",
-    "main.js": "/cinema-app/static/js/main.e1031d9f.js",
+    "main.css": "/cinema-app/static/css/main.ea3d1102.css",
+    "main.js": "/cinema-app/static/js/main.20503308.js",
     "reactPlayerYouTube.js": "/cinema-app/static/js/reactPlayerYouTube.99ca41bf.chunk.js",
     "reactPlayerSoundCloud.js": "/cinema-app/static/js/reactPlayerSoundCloud.5b7b4b84.chunk.js",
     "reactPlayerVimeo.js": "/cinema-app/static/js/reactPlayerVimeo.415ed2ac.chunk.js",
@@ -32,8 +32,8 @@
     "static/media/close.svg": "/cinema-app/static/media/close.498a1e2fd1a3df848f49f8a9b222ac47.svg",
     "static/media/arrow.svg": "/cinema-app/static/media/arrow.48e894f38853e68328ec974816a79386.svg",
     "static/media/getFetch.cjs": "/cinema-app/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.de26762e.css.map": "/cinema-app/static/css/main.de26762e.css.map",
-    "main.e1031d9f.js.map": "/cinema-app/static/js/main.e1031d9f.js.map",
+    "main.ea3d1102.css.map": "/cinema-app/static/css/main.ea3d1102.css.map",
+    "main.20503308.js.map": "/cinema-app/static/js/main.20503308.js.map",
     "reactPlayerYouTube.99ca41bf.chunk.js.map": "/cinema-app/static/js/reactPlayerYouTube.99ca41bf.chunk.js.map",
     "reactPlayerSoundCloud.5b7b4b84.chunk.js.map": "/cinema-app/static/js/reactPlayerSoundCloud.5b7b4b84.chunk.js.map",
     "reactPlayerVimeo.415ed2ac.chunk.js.map": "/cinema-app/static/js/reactPlayerVimeo.415ed2ac.chunk.js.map",
@@ -50,7 +50,7 @@
     "reactPlayerPreview.1b8a0c11.chunk.js.map": "/cinema-app/static/js/reactPlayerPreview.1b8a0c11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de26762e.css",
-    "static/js/main.e1031d9f.js"
+    "static/css/main.ea3d1102.css",
+    "static/js/main.20503308.js"
   ]
 }
