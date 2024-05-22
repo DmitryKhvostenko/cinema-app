@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cinema-app/static/css/main.1ca847b9.css",
-    "main.js": "/cinema-app/static/js/main.7903ad9a.js",
+    "main.css": "/cinema-app/static/css/main.a8667532.css",
+    "main.js": "/cinema-app/static/js/main.c0312f50.js",
     "reactPlayerYouTube.js": "/cinema-app/static/js/reactPlayerYouTube.99ca41bf.chunk.js",
     "reactPlayerSoundCloud.js": "/cinema-app/static/js/reactPlayerSoundCloud.5b7b4b84.chunk.js",
     "reactPlayerVimeo.js": "/cinema-app/static/js/reactPlayerVimeo.415ed2ac.chunk.js",
@@ -26,13 +26,14 @@
     "static/media/slick.woff": "/cinema-app/static/media/slick.295183786cd8a1389865.woff",
     "static/media/search.svg": "/cinema-app/static/media/search.ed91a28c902bb625ae1a.svg",
     "static/media/search-black.svg": "/cinema-app/static/media/search-black.b94e26fed4216041068c.svg",
+    "static/media/full-rating.svg": "/cinema-app/static/media/full-rating.55cce6f8b75eb84474046050697c2dfb.svg",
+    "index.html": "/cinema-app/index.html",
     "static/media/exit.svg": "/cinema-app/static/media/exit.838e7d3fcc322f326f96c4d7a1be14f7.svg",
     "static/media/close.svg": "/cinema-app/static/media/close.498a1e2fd1a3df848f49f8a9b222ac47.svg",
-    "index.html": "/cinema-app/index.html",
     "static/media/arrow.svg": "/cinema-app/static/media/arrow.48e894f38853e68328ec974816a79386.svg",
     "static/media/getFetch.cjs": "/cinema-app/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.1ca847b9.css.map": "/cinema-app/static/css/main.1ca847b9.css.map",
-    "main.7903ad9a.js.map": "/cinema-app/static/js/main.7903ad9a.js.map",
+    "main.a8667532.css.map": "/cinema-app/static/css/main.a8667532.css.map",
+    "main.c0312f50.js.map": "/cinema-app/static/js/main.c0312f50.js.map",
     "reactPlayerYouTube.99ca41bf.chunk.js.map": "/cinema-app/static/js/reactPlayerYouTube.99ca41bf.chunk.js.map",
     "reactPlayerSoundCloud.5b7b4b84.chunk.js.map": "/cinema-app/static/js/reactPlayerSoundCloud.5b7b4b84.chunk.js.map",
     "reactPlayerVimeo.415ed2ac.chunk.js.map": "/cinema-app/static/js/reactPlayerVimeo.415ed2ac.chunk.js.map",
@@ -49,7 +50,7 @@
     "reactPlayerPreview.1b8a0c11.chunk.js.map": "/cinema-app/static/js/reactPlayerPreview.1b8a0c11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ca847b9.css",
-    "static/js/main.7903ad9a.js"
+    "static/css/main.a8667532.css",
+    "static/js/main.c0312f50.js"
   ]
 }
