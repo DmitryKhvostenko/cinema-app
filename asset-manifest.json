@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cinema-app/static/css/main.ec44f03d.css",
-    "main.js": "/cinema-app/static/js/main.b0c09f8c.js",
+    "main.js": "/cinema-app/static/js/main.05e924d8.js",
     "reactPlayerYouTube.js": "/cinema-app/static/js/reactPlayerYouTube.99ca41bf.chunk.js",
     "reactPlayerSoundCloud.js": "/cinema-app/static/js/reactPlayerSoundCloud.5b7b4b84.chunk.js",
     "reactPlayerVimeo.js": "/cinema-app/static/js/reactPlayerVimeo.415ed2ac.chunk.js",
@@ -17,7 +17,7 @@
     "reactPlayerFilePlayer.js": "/cinema-app/static/js/reactPlayerFilePlayer.4b9c4811.chunk.js",
     "reactPlayerPreview.js": "/cinema-app/static/js/reactPlayerPreview.1b8a0c11.chunk.js",
     "static/media/image01.png": "/cinema-app/static/media/image01.8675fd412553dfae2aef.png",
-    "static/media/logo.svg": "/cinema-app/static/media/logo.fa5cfe6287562df9b99b77e6f8a5573f.svg",
+    "static/media/logo.svg": "/cinema-app/static/media/logo.140922b525979d07d065dfde903dbf8d.svg",
     "static/media/slick.svg": "/cinema-app/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/lock.svg": "/cinema-app/static/media/lock.eb710a8225af935fdad9.svg",
     "static/media/slick.eot": "/cinema-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -35,7 +35,7 @@
     "static/media/arrow.svg": "/cinema-app/static/media/arrow.48e894f38853e68328ec974816a79386.svg",
     "static/media/getFetch.cjs": "/cinema-app/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
     "main.ec44f03d.css.map": "/cinema-app/static/css/main.ec44f03d.css.map",
-    "main.b0c09f8c.js.map": "/cinema-app/static/js/main.b0c09f8c.js.map",
+    "main.05e924d8.js.map": "/cinema-app/static/js/main.05e924d8.js.map",
     "reactPlayerYouTube.99ca41bf.chunk.js.map": "/cinema-app/static/js/reactPlayerYouTube.99ca41bf.chunk.js.map",
     "reactPlayerSoundCloud.5b7b4b84.chunk.js.map": "/cinema-app/static/js/reactPlayerSoundCloud.5b7b4b84.chunk.js.map",
     "reactPlayerVimeo.415ed2ac.chunk.js.map": "/cinema-app/static/js/reactPlayerVimeo.415ed2ac.chunk.js.map",
@@ -53,6 +53,6 @@
   },
   "entrypoints": [
     "static/css/main.ec44f03d.css",
-    "static/js/main.b0c09f8c.js"
+    "static/js/main.05e924d8.js"
   ]
 }
